@@ -1,0 +1,78 @@
+
+
+
+
+.navbar-default {
+     
+    border-color: none;
+    border-radius: 0px;
+     background-color: #a94442;
+    border-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: red;
+}
+
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 2px 15px 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: -20PX;
+    border: none;
+}
+
+.input-group .form-control {
+    position: relative;
+    z-index: 2;
+    float: left;
+    width: 100%;
+    margin: 15px 0px 30px 0px;
+    border-radius: none;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: blue;
+    border-color: #ccc;
+    margin: -15PX 0px 0px 0px;
+    border: none;
+    padding:7.5px;
+
+  
+}
+
+  
+#but{
+    color: black;
+}
+
+.id{
+    display: flex;
+    float: right;
+    color:#a94442; 
+    margin: 0px 15px 0px 0px ;
+}
+
+
+#footer{
+    margin: 0px 0px 0px 0px ;
+    padding: 7px 0px 0.2px 70px ;
+    min-height: 40px;
+    background:#a94442 ;
+    color: #fff;
+
+    
+}
+
+
+
+

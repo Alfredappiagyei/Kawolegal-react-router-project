@@ -1,0 +1,144 @@
+
+
+
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  margin-left: 30px;
+}
+
+
+#navbar-default {
+  background-color: #0000;
+  border-color: #e7e7e7;
+  border-color: none;
+  border-radius: 0px;
+}
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: -20PX;
+  border: none;
+  background-color: #a94442;
+  
+}
+.h2, .h3, h1, h2, h3 {
+  margin-top: -80px;
+  margin-bottom: 10px;
+}
+
+
+
+.home{
+
+margin: 0px 0px 0px 0px;
+background: url(router/photos/of7.jpg);
+background-size: cover;
+font-family: sans-serif;
+min-height: 750px;
+
+
+
+}
+#registerbutton{
+background: #337ab7;
+align-content: center;
+text-decoration: none;
+text-align: center;
+color: #fff;
+padding: 10px;
+border-radius: 0px 5px 5px 5px ;
+margin: 0px 0px 0px 630px;
+
+}
+
+#headtext{
+padding: 300px 0px 0px 0px;
+color: greenyellow;
+text-align: center;
+}
+
+#para{
+color: #fff;
+text-align: center;
+font-size: 19px;
+
+}
+ .navbar-nav>li> {
+  color: #a94442;
+     
+}
+
+
+
+a{
+
+border-radius: none;
+color: white;
+text-decoration:none;
+margin: 10px;
+padding: 5px;
+
+}
+
+.navbar-nav>li>a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    font-size: 19px;
+    
+}
+
+
+#footer{
+margin: 0px 0px 0px 0px ;
+padding: 7px 0px 0.2px 70px ;
+min-height: 40px;
+background:#a94442 ;
+color: #fff;
+
+
+}
+
+.you{
+background-color: rgba(80,15,15,0.75);
+margin: 0px 0px 0px 0px
+background-size cover;
+font-family: sans-serif;
+min-height: 750px;
+
+
+}
+
+.id{
+display: flex;
+float: right;
+color:#a94442; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

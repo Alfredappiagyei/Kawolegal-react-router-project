@@ -1,0 +1,81 @@
+.navbar-default .navbar-nav>li>a {
+    color: red;
+    margin: 0px 0px 50px 0px;
+}
+
+   .navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 13px 15px 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+h4{
+    padding: 100px 0px 50px 0px;
+}
+
+.id {
+    display: flex;
+    float: right;
+    color: #a94442;
+    margin: 0px 20px 0px 0px;
+}
+
+    .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: 30px;
+}
+
+.navbar-default {
+     
+    border-color: none;
+    border-radius: 0px;
+}
+
+.navbar-default {
+    background-color: #a94442 ;
+    border-color: #e7e7e7;
+}
+.navbar {
+     position: relative;
+    min-height: 50px;
+    margin-bottom: -20PX;
+    border: none;
+
+}
+
+.btn-default {
+    color: #fff;
+    background-color: blue;
+    border-color: #ccc;
+}
+
+#footer{
+    
+    padding: 7px 0px 0.2px 70px ;
+    min-height: 40px;
+    background:#a94442 ;
+    color: #fff;
+
+    
+}
+
+.form-group {
+    margin-bottom: 25PX;
+}
+
+.id{
+    display: flex;
+    float: right;
+    color:#a94442; 
+}
+
+
+
+
+
+
+
+
+
+
