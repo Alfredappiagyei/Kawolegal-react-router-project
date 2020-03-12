@@ -70,7 +70,7 @@ export default function App() {
               <Route path="/startups" component={Startups} />
               <Route path="/register" component={Register} />
               <Route path="/login" component={Login} />
-            </Switch>
+             </Switch>
       
     
             </div>
