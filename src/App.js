@@ -89,7 +89,7 @@ function Home() {
             <p id="para"><b>A collaborative ecosystem for problem</b></p>
             <p id="para"><b>solvers and support for startups</b> </p>
 
-            <Link id="registerbutton" to="/register"><b>REGISTER NOW</b> </Link>
+           <Link to="/register">  <p id="para"><b>REGISTER NOW</b> </p> </Link>
             </div>
        </div>
         <br/>
